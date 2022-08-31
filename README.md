@@ -1,2 +1,1 @@
-#!/bin/bash
- alx-system_software 
+Task 0. Where am I?

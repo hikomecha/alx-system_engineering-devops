@@ -1,2 +1,2 @@
 #!/bin/bash
-100-empty_casks
+find . -depth -empty -printf %f'\n'
